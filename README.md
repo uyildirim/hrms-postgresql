@@ -1,2 +1,1 @@
-# hrms-postgresql
-postgres sql
+![alt text](https://i.hizliresim.com/79xp20y.PNG)
